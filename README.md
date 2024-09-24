@@ -1,7 +1,6 @@
 1. Título e Introdução
 Adicione um título claro e visualmente atraente no início, seguido por uma breve introdução.
 
-markdown
 Copiar código
 # IoT ETEC - Controle de Entrada Inteligente com Arduino e RFID
 
@@ -9,16 +8,14 @@ Um sistema automatizado para controle de entrada e saída de alunos em institui�
 2. Adicione Imagens e GIFs
 Inclua imagens do projeto em ação ou fluxogramas que demonstrem o funcionamento. Se possível, adicione GIFs que mostrem as funcionalidades principais.
 
-markdown
-Copiar código
+
 ![Visão Geral do Sistema](link_da_imagem)
 
 > **GIF** mostrando o processo de um aluno passando o cartão RFID.
 3. Estrutura
 Organize o README em seções claras, como:
 
-markdown
-Copiar código
+
 ## Funcionalidades Principais
 - Registro automatizado de entrada e saída com RFID.
 - Monitoramento do tempo de intervalo dos alunos.
@@ -26,8 +23,7 @@ Copiar código
 4. Instalação e Configuração
 Forneça instruções detalhadas de instalação, incluindo os pré-requisitos e o passo a passo para rodar o projeto.
 
-markdown
-Copiar código
+
 ## Instalação e Configuração
 
 ### Pré-requisitos
@@ -42,29 +38,24 @@ Configure o hardware conforme o diagrama na pasta docs.
 
 Carregue o código no Arduino.
 
-css
-Copiar código
 
 ### 5. **Uso**
 Explique como utilizar o sistema de forma clara.
 
-```markdown
 ## Como Usar
 1. Após a instalação, passe a tag RFID pelo leitor para registrar a entrada.
 2. O sistema automaticamente registrará a presença e exibirá no painel.
 6. Tecnologias Utilizadas
 Destaque as principais tecnologias do projeto.
 
-markdown
-Copiar código
+
 ## Tecnologias Utilizadas
 - **Arduino**: Plataforma para o desenvolvimento do hardware.
 - **RFID**: Sistema de identificação por radiofrequência.
 7. Contribuições
 Facilite a colaboração, adicionando diretrizes de contribuição.
 
-markdown
-Copiar código
+
 ## Como Contribuir
 Contribuições são bem-vindas! Para contribuir, siga os seguintes passos:
 1. Faça um fork do projeto.
@@ -73,23 +64,20 @@ Contribuições são bem-vindas! Para contribuir, siga os seguintes passos:
 8. Licença
 Inclua uma seção de licença clara no final.
 
-markdown
-Copiar código
+
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 9. Melhore a Estética com Emojis e Links
 Use emojis para destacar seções importantes e inclua links interativos.
 
-markdown
-Copiar código
+
 ## 🛠 Tecnologias Utilizadas
 - **Arduino**: [Plataforma](https://www.arduino.cc)
 - **RFID**: Sistema de identificação por radiofrequência
 Exemplo Completo do Novo README
 Aqui está uma estrutura completa seguindo as sugestões:
 
-markdown
-Copiar código
+
 # IoT ETEC - Controle de Entrada Inteligente com Arduino e RFID
 
 Um sistema automatizado para controle de entrada e saída de alunos em instituições de ensino técnico, utilizando a tecnologia **RFID** e a plataforma **Arduino**. Este projeto visa modernizar o gerenciamento de frequência, otimizando processos manuais e assegurando uma maior precisão nos registros.
